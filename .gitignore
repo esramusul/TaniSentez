@@ -25,3 +25,11 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Documents, CSVs, Images and Notebooks (Only code folders go to remote repository)
+*.docx
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.ipynb
